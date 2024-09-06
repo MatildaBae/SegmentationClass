@@ -1,4 +1,4 @@
-# ❤️ Emotion Recognition Using CLIP Model
+# ❤️ Subtle Emotion Recognition Using CLIP Model
 
 **Team SOㅋTA**  
 *Members: Park Se-hoon, Bae Ji-won, Jeong Ha-yeon*  
@@ -138,5 +138,11 @@ While we faced several challenges in tuning the CLIP model for more complex emot
 
 ## 결론
 
-이번 프로젝트는 복잡한 감정 인식을 위한 CLIP 모델 튜닝의 기초를 마련했습니다. 향후 심리 분석, AI-인간 상호작용 등 다양한 분야에 이 모델을 확장해 나
+이번 프로젝트는 복잡한 감정 인식을 위한 CLIP 모델 튜닝의 기초를 마련했습니다. 향후 심리 분석, AI-인간 상호작용 등 다양한 분야에 이 모델을 확장해 나갈 계획입니다.
+
+---
+
+## 감사의 말
+
+- 이 프로젝트는 Team SOㅋTA: **박세훈, 배지원, 정하연**이 제작하였습니다.
 
