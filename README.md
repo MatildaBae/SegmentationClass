@@ -73,7 +73,7 @@ While we faced several challenges in tuning the CLIP model for more complex emot
 
 ---
 
-# ❤️ CLIP 모델을 활용한 감정 인식
+# ❤️ CLIP 모델을 활용한 미묘한 감정 인식
 
 **Team SOㅋTA**  
 *팀원: 박세훈, 배지원, 정하연*
